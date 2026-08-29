@@ -1,0 +1,12 @@
+{
+  "name": "VC Time Tracker",
+  "description": "Tracks total time spent in Voice Channels with specific users.",
+  "authors": [
+    {
+      "name": "Letting Developer",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0"
+}
